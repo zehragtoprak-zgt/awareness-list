@@ -7,7 +7,7 @@ görev planlamasını farkındalık ve uyku düzeniyle birlikte ele alan bir pla
 
 ---
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 
 Bu projenin amacı, kullanıcıların yalnızca yapılacak işlerini listelemelerini değil,
 günlük rutinlerini daha bilinçli ve sürdürülebilir bir şekilde planlamalarını sağlamaktır.
@@ -17,7 +17,7 @@ farkındalık temelli ve destekleyici bir planlama deneyimi sunmayı hedefler.
 
 ---
 
-## 🧠 Proje Fikri ve İnovatif Yaklaşım
+##  Proje Fikri ve İnovatif Yaklaşım
 
 Farkediyorum Listesi, verimlilik kavramını sadece “daha fazla iş yapmak” üzerinden değil,
 “daha bilinçli yaşamak” üzerinden ele alır.
@@ -30,7 +30,7 @@ farkındalık odaklı bir planlama yaklaşımı sunar.
 
 ---
 
-## 🛠️ Kullanılan / Kullanılacak Teknolojiler
+##  Kullanılan / Kullanılacak Teknolojiler
 
 - HTML
 - CSS
@@ -39,7 +39,7 @@ farkındalık odaklı bir planlama yaklaşımı sunar.
 
 ---
 
-## 📌 Uygulama Özellikleri
+##  Uygulama Özellikleri
 
 - [ ] Günlük yapılacaklar listesi oluşturma
 - [ ] Görev tamamlama ve silme
@@ -49,16 +49,16 @@ farkındalık odaklı bir planlama yaklaşımı sunar.
 
 ---
 
-## 🚀 Proje Durumu
+##  Proje Durumu
 
-🟡 Geliştirme aşamasında
+- Geliştirme aşamasında
 
 Bu proje adım adım geliştirilmektedir.
 Yeni özellikler eklendikçe repository güncellenecektir.
 
 ---
 
-## 📂 GitHub ve Geliştirme Süreci
+##  GitHub ve Geliştirme Süreci
 
 Proje GitHub üzerinde açık şekilde paylaşılmaktadır.
 Geliştirme süreci commit’ler aracılığıyla takip edilebilir.
@@ -67,6 +67,6 @@ Bu repository, öğrenme ve portföy geliştirme amacıyla oluşturulmuştur.
 
 ---
 
-## ✨ Not
+## * Not
 
 Bu proje bir öğrenci projesidir ve eğitim amaçlı geliştirilmektedir.
